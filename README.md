@@ -6,7 +6,7 @@ Dive into the world of Tailwind CSS, Incredible Frontend Nike website built with
 
 ![Nike UI](src/assets/images/main-page.png)
 
-#### [View Live](https://nike-web-ui.app/)
+#### [View Live](https://nike-web-ui.netlify.app)
 
 ## Table of Contents
 
