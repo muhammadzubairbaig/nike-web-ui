@@ -24,7 +24,7 @@ Dive into the world of Tailwind CSS, Incredible Frontend Nike website built with
 
 ## Introduction
 
-Nike Website is a web application built with Vite.js using TypeScript & React. The application is a landing page for Nike website. The application is responsive and works great on mobile devices and tablets. The application is designed using Tailwind CSS and it is deployed on Vercel.
+Nike Website is a web application built with Vite.js using TypeScript & React. The application is a landing page for Nike website. The application is responsive and works great on mobile devices and tablets. The application is designed using Tailwind CSS and it is deployed on Netlify.
 
 ### Folder Structure
 
